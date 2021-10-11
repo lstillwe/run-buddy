@@ -11,4 +11,4 @@ A website that offers fitness training services.
 https://lstillwe.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by [Lisa Stillwell]
+Made with ❤️ &nbsp;by Lisa Stillwell
